@@ -1,0 +1,17 @@
+h1{
+    color:crimson;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+    gap:5%;
+}
+
+.flex > div{
+    width:30%;
+    border: crimson 2px solid;
+    background-color: black;
+}
