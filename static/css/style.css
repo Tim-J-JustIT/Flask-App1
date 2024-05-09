@@ -15,3 +15,7 @@ h1{
     border: crimson 2px solid;
     background-color: black;
 }
+
+.flex p{
+    text-align: center;
+}
